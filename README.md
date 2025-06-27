@@ -1,50 +1,58 @@
-📊 Cookie Sales Dashboard – Jan–Dec 2024
-This Excel dashboard presents a comprehensive analysis of monthly sales trends for three cookie products – Peanut Cookie, Choco Chip, and Chikki – from January to December 2024.
-The project showcases data cleaning, visual storytelling, and insight generation using Excel-based tools.
+# 📊 Cookie Company Sales Report – Jan to Dec 2024
 
-💼 What I Did (Key Contributions)
-✅ Cleaned & structured raw monthly sales data for accuracy and readability
-✅ Designed a dynamic line chart to compare product performance across 12 months
-✅ Used slicers and chart formatting to make the dashboard interactive and visually appealing
-✅ Wrote a business-style executive summary with actionable insights and trend analysis
-✅ Highlighted sales peaks, dips, product behavior, and marketing opportunities
-✅ Applied Excel skills including table formatting, chart styling, conditional formatting, and layout optimization
+This project visualizes and analyzes the monthly sales trends of three cookie products — Peanut Cookie, Choco Chip, and Chikki — from January to December 2024. Using Microsoft Excel, I structured raw data, created a dynamic line chart, and added insights with recommendations.
 
-📂 What's Inside
-Cookie_Sales_2024_Dashboard.xlsx
-→ Contains:
+---
 
-Raw Data Tab
+## 📁 Project Highlights
 
-Cleaned Data Table
+- 📅 Data for 12 months (Jan–Dec 2024)
+- 🍪 Products: Peanut Cookie, Choco Chip, Chikki
+- 📈 Visualization: Line Chart to track monthly sales
+- 🧠 Insights: Written summary for each product with key takeaways and recommendations
 
-Interactive Line Chart
+---
 
-Written Summary with Insights and Recommendations
+## 📊 Final Output
 
-🧠 Business Insights (Snapshot)
-Peanut Cookie: Consistent performer; good for stable inventory planning
+### 🔷 Monthly Sales Trends – Cookie Products (2024)
 
-Choco Chip: High-variance product; ideal for flash sales and campaigns
+![Chart Preview](chart-preview-image-placeholder.png)
 
-Chikki: Unpredictable but ends strong; monitor carefully during supply-sensitive months
+---
 
-🛠️ Tools Used
-Microsoft Excel
+## ✍️ Summary and Insights
 
-Line Chart Visualization
+- **Peanut Cookie (Green Line)** – Steady performance with spikes in April, June, August, and December.
+- **Choco Chip (Blue Line)** – High volatility, peaks in June–August.
+- **Chikki (Yellow Line)** – Unpredictable, low in March & September, peaks in Feb & Dec.
 
-Data Slicers
+---
 
-Color-Coded Themes
+## 🛠 Tools Used
 
-Text-based Analysis & Recommendation Section
+- Microsoft Excel
+- Manual data visualization and insights writing
 
-📌 Ideal For
-This project is ideal for:
+---
 
-Dashboard portfolio samples
+## 📂 Files Included
 
-Client reports or product managers tracking performance
+- `cookie_sales_analysis.xlsx` – Contains:
+  - Raw Data Sheet
+  - Cleaned Data & Chart Sheet
+  - Summary & Recommendations
 
-Freelancers and students learning to turn raw data into decisions
+---
+
+## 📌 Before vs After
+
+### Raw Data Format
+- Simple matrix of products vs months
+
+### Final Version
+- Styled table with chart, color-coded lines, and summary
+
+---
+
+
