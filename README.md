@@ -1,58 +1,63 @@
-# 📊 Cookie Company Sales Report – Jan to Dec 2024
+# 📊 COOKIE SALES DASHBOARD – 2024
 
-This project visualizes and analyzes the monthly sales trends of three cookie products — Peanut Cookie, Choco Chip, and Chikki — from January to December 2024. Using Microsoft Excel, I structured raw data, created a dynamic line chart, and added insights with recommendations.
-
----
-
-## 📁 Project Highlights
-
-- 📅 Data for 12 months (Jan–Dec 2024)
-- 🍪 Products: Peanut Cookie, Choco Chip, Chikki
-- 📈 Visualization: Line Chart to track monthly sales
-- 🧠 Insights: Written summary for each product with key takeaways and recommendations
+This project demonstrates how to transform messy cookie sales data into a structured Excel dashboard with clear monthly insights using **line chart visualizations**. The task involved **data cleaning**, formatting, structuring, and creating an interactive dashboard—all done using Microsoft Excel (without Power BI).
 
 ---
 
-## 📊 Final Output
+## 🗃️ RAW DATA
 
-### 🔷 Monthly Sales Trends – Cookie Products (2024)
+The raw data provided was unorganized and required cleaning. It included inconsistent entries and column misalignments. Each product’s sales were spread across 12 months.
 
-![Chart Preview](chart-preview-image-placeholder.png)
+![Raw Sales Data](https://github.com/Rajathesh2002/ookie-sales-dashboard-2024/blob/main/COOKIE%20RAW%20DATA.jpg)
 
----
+### 🔢 Sample Data (Before Cleaning)
 
-## ✍️ Summary and Insights
-
-- **Peanut Cookie (Green Line)** – Steady performance with spikes in April, June, August, and December.
-- **Choco Chip (Blue Line)** – High volatility, peaks in June–August.
-- **Chikki (Yellow Line)** – Unpredictable, low in March & September, peaks in Feb & Dec.
-
----
-
-## 🛠 Tools Used
-
-- Microsoft Excel
-- Manual data visualization and insights writing
+| PRODUCT        | JAN | FEB | MAR | APR | MAY  | JUN  | JUL  | AUG  | SEP  | OCT  | NOV  | DEC  |
+|----------------|-----|-----|-----|-----|------|------|------|------|------|------|------|------|
+| PEANUT COOKIE  | 500 | 750 | 235 | 1500| 1350 | 2000 | 1500 | 2310 | 1800 | 1900 | 1750 | 2050 |
+| CHOCO CHIP     | 240 | 350 | 340 | 450 | 560  | 3500 | 3404 | 3440 | 423  | 443  | 1450 | 3432 |
+| CHIKKI         | 2450| 3404| 323 | 332 | 1232 | 2450 | 3482 | 2321 | 345  | 2321 | 323  | 2121 |
 
 ---
 
-## 📂 Files Included
+## ✅ DATA VISUALIZATION OUTPUT
 
-- `cookie_sales_analysis.xlsx` – Contains:
-  - Raw Data Sheet
-  - Cleaned Data & Chart Sheet
-  - Summary & Recommendations
+After cleaning and organizing the data, a **line chart** was built to show **monthly sales trends per product**. Slicers were added to enable easy filtering and viewing.
+
+![Sales Visualization](https://github.com/Rajathesh2002/ookie-sales-dashboard-2024/blob/main/COOKIE%20SALES%20DATA%20VISUALIZATION.jpg)
+
+### ✨ Features:
+- Line graph shows clear trend across 12 months
+- Individual product performance can be filtered
+- Final file ready for client delivery in Excel
+- Added slicers for interactive analysis
+- Built completely in Excel (no Power BI used)
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel  
+- Excel Pivot Table  
+- Excel Slicers  
+- Line Chart  
+- Manual Data Cleaning & Formatting
 
 ---
 
-## 📌 Before vs After
+## 💼 Use Case
 
-### Raw Data Format
-- Simple matrix of products vs months
+This project is a typical example of real-world freelance work where clients:
+- Provide messy Excel data
+- Expect clean structure
+- Request professional charts to track product-wise performance
 
-### Final Version
-- Styled table with chart, color-coded lines, and summary
+Such dashboards are ideal for sales tracking, business performance reviews, and presentation-ready reports.
 
 ---
+
+## 📁 File Structure
+
+
 
 
