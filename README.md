@@ -55,8 +55,13 @@ This project is a typical example of real-world freelance work where clients:
 Such dashboards are ideal for sales tracking, business performance reviews, and presentation-ready reports.
 
 ---
+## 📬 Contact
 
-## 📁 File Structure
+Feel free to reach out for Excel-based dashboard projects or data cleaning work:
+
+📧 Email: rajathesh02@gmail.com  
+🔗 GitHub: [@Rajasthesh2002](https://github.com/Rajasthesh2002)  
+💼 Open to freelance projects and collaborations.
 
 
 
